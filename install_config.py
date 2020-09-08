@@ -1,4 +1,6 @@
-import shutil 
+#!/usr/bin/env python3
+
+import shutil
 import os.path
 
 HOME_DIR = os.path.expanduser("~")

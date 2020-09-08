@@ -13,7 +13,7 @@ foo@bar:~$ ./install_config.sh
 ```
 * Python-script
 ```console
-foo@bar:~$ python3 install_config.py
+foo@bar:~$ ./install_config.py
 ```
 
 ## Установка плагинов
